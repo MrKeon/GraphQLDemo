@@ -1,0 +1,18 @@
+{
+    "1": {
+        "STAR": {
+            "S": "The situation.",
+            "T": "The task that was at hand.",
+            "A": "Some more actions that I took.",
+            "R": "the results from the actions taken."
+        }
+    },
+    "2": {
+        "STAR": {
+            "S": "The second situation.",
+            "T": "The second task that was at hand.",
+            "A": "Some more second actions that I took.",
+            "R": "the results from the second actions taken."
+        }
+    }
+}
